@@ -10,6 +10,8 @@ Welcome to the Interactive Todo List Application! This project allows you to cre
 
 The Interactive Todo List Application is a web-based task management tool designed to help users organize their tasks effectively. With this application, users can add, delete, and mark tasks as completed in real-time, providing a seamless and intuitive task management experience.
 
+![image](https://github.com/Arshpreet-Singh-1/Interactive-Todo-List-Application/assets/84027648/cd2b50d7-afd5-4579-b494-e5c141e9b64b)
+
 ---
 
 ## Tech Stack
